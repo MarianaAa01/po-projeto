@@ -1,0 +1,28 @@
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+.metadata/
+
+# Ignore IntelliJ files
+.idea/
+out/
+# Ignore NetBeans files
+nbproject/
+# Ignore VS Code files
+.vscode/
+
+# Ignore Project Files
+*.class
+*.jar
+*.outhyp
+*.dat
+*.diff
+# Ignore Make Files
+**/Makefile
+# Ignore po-uilib files
+po-uilib/
+.DS_Store
+test/
+
+*.import
